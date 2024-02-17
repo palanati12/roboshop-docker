@@ -28,7 +28,6 @@ services:
     - cart
     - user
     - shipping
-    - payment
 
   redis:
     image: redis
